@@ -1,19 +1,27 @@
 # FlyforFun_Origin
 
-老玩家自己用网页搭的服务器，还原了老飞飞的游戏，可以免费联机，服务器在德国所有有些卡，目前有繁体汉化
-### 游戏地址：https://neuz.flyforfun.io/
+飞飞是我小学时候就在玩的游戏，后来关服了挺可惜的。最近一个法国的前端大神玩家自己用网页搭的服务器，还原了老飞飞的游戏，可以免费联机，服务器在德国所有有些卡，目前有繁体汉化自己搭了一个服务器，而且在不断更新和完善中，目前知道的人不多，我挺喜欢童年玩过的这款游戏，所以大家可以支持一波。
+
+代码都是免费开源的，有能力的同学可以帮忙更新，目前已经有繁体中文汉化，最高可以升级到20级。建议翻墙不然会比较卡。大家有什么建议也可以issue在这里
+
+游戏地址：https://neuz.flyforfun.io/
+
+论坛地址：https://www.flyforfun.io/forums.php
 
 
-<div align=center><img width="600" height="350" src="https://imgsa.baidu.com/forum/w%3D580/sign=9896a3aea81ea8d38a22740ca70b30cf/7919fddcd100baa1667d53ae4910b912c8fc2e72.jpg"/></div>
 
 
 
-<div align=center><img width="600" height="350" src="https://imgsa.baidu.com/forum/w%3D580/sign=1b5912df8c8ba61edfeec827713597cc/dde39a3df8dcd10010cdec347c8b4710b9122f72.jpg"/></div>
+<div align=center><img width="600" height="350" src="https://img-blog.csdnimg.cn/20190513215857945.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzM5NTIxNTU0,size_16,color_FFFFFF,t_70"/></div>
 
-<div align=center><img width="600" height="350" src="https://imgsa.baidu.com/forum/w%3D580/sign=b1b49d1bbf3533faf5b6932698d2fdca/2f1975cf3bc79f3d50b0f025b4a1cd11728b2972.jpg
+
+
+<div align=center><img width="600" height="350" src="https://img-blog.csdnimg.cn/20190513215928797.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzM5NTIxNTU0,size_16,color_FFFFFF,t_70"/></div>
+
+<div align=center><img width="600" height="350" src="https://img-blog.csdnimg.cn/20190513215941195.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzM5NTIxNTU0,size_16,color_FFFFFF,t_70
 "/></div>
 
-<div align=center><img width="600" height="350" src="https://imgsa.baidu.com/forum/w%3D580/sign=155290103dfa828bd1239debcd1e41cd/96eb3ec79f3df8dc786c9b84c311728b47102872.jpg
+<div align=center><img width="600" height="350" src="https://img-blog.csdnimg.cn/20190513215948832.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzM5NTIxNTU0,size_16,color_FFFFFF,t_70
 "/></div>
 
 
